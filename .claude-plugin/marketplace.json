@@ -1,0 +1,11 @@
+{
+  "name": "amb",
+  "owner": { "name": "xuhu-jty" },
+  "plugins": [
+    {
+      "name": "amb",
+      "source": "./",
+      "description": "把用户的想法往速度、高度、深度、广度上升级。"
+    }
+  ]
+}
